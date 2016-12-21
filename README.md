@@ -7,6 +7,8 @@ I really like this and will try to follow it. That means I need to find at least
 
 https://github.com/Turnstyles/Process.git
 
+One variation from c4 is that I'll have one repo specifically for brainstorming and storing crazy ideas, because that's just the way I am.
+
 Immediate tasks ahead.
   1. Find a second person
   2. List the essential problems
