@@ -5,7 +5,7 @@ I have been working on ideas for a while but had little idea for a process. I'm 
 
 I really like this and will try to follow it. That means I need to find at least one more collaborator soon and tame the natural complexity of even a minimal game in this space.
 
-[The C4 Process ](https://hintjens.gitbooks.io/social-architecture/content/chapter4.html)
+[The C4 Process - Starting with Preliminaries](https://hintjens.gitbooks.io/social-architecture/content/chapter4.html#Preliminaries)
 
 One variation from c4 is that I'll have one repo specifically for brainstorming and storing crazy ideas, because that's just the way I am.
 
