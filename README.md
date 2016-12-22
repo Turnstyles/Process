@@ -17,3 +17,5 @@ Immediate tasks ahead.
   1. Find a second person
   2. List the essential problems
   3. Design a minimal solution
+
+Create or link to a basic tutorial on using git for artists and game designers.
