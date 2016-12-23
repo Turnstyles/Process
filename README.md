@@ -1,7 +1,7 @@
 # Process
 It's been said that if you build it, they will come. But if you design it, will they build it?
 
-I'm attracted to Domain Driven Design for the high level design, especially in establishing a clear shared vocabulary amongst players, designers and developers, but recently I encountered a process called c4 by Pieter Hinjents which I'd like to use for the technical aspects of the project [c4](https://rfc.zeromq.org/spec:22/C4/). 
+I'm attracted to Domain Driven Design for the high level design, especially in establishing a clear shared vocabulary amongst players, designers and developers, but recently I encountered a process called c4 by Pieter Hinjents which I'd like to use for the technical aspects of the project ([c4](https://rfc.zeromq.org/spec:22/C4/)). 
 
 [Here is a more narative intro to it - (Start with the Preliminaries section)](https://hintjens.gitbooks.io/social-architecture/content/chapter4.html)
 
